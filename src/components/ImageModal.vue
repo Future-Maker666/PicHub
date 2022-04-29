@@ -194,7 +194,7 @@ const Upload = async (type) => {
               url: `/repos/${github_config.owner}/${github_config.repoPath}/contents/${folder.value}/${filename}
           `,
               data: {
-                message: 'upload a image by pichub',
+                message: '通过 Future_Maker PicHub 上传图片',
                 content: type == 1 ? e.orginal_base64data : e.base64data,
               },
             })
