@@ -81,7 +81,7 @@ const GetImages = (folderPath) => {
 }
 
 const GetMarkdownText = (url) => {
-  var alt = url.substring(url.lastIndexOf('/') - 7)
+  var alt = url.substring(url.lastIndexOf('/') + 1)
   return `![${alt}](${url})`
 }
 
