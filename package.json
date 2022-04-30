@@ -1,5 +1,5 @@
 {
-    "name": "Future_Maker's PicHub",
+    "name": "FutureMakerPicHub",
     "version": "1.0.5",
     "scripts": {
         "dev": "vite",
