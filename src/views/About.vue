@@ -6,9 +6,11 @@ import { ref } from 'vue'
   <div class="about-wrapper">
     <div class="title-1">关于</div>
     <div class="content">
-      我是来自新疆的学生 <a target="_blank" href="https://ssy.cab/">Future_Maker</a
-      >。本项目是基于 <a target="_blank" href="https://github.com/lewkamtao/PicHub>Kamtao's PicHub</a
-      > 进行二次修改的。
+      我是来自新疆的学生<a target="_blank" href="https://ssy.cab/">
+        Future_Maker</a
+      >。本项目是基于<a target="_blank" href="https://github.com/lewkamtao/PicHub">
+      Kamtao's PicHub</a
+      >进行二次修改的。
       <br /> <br />
       PicHub 是一个图床，也可以是相册，这取决于你对它的定位。<br />这个图床很简单，但比较完整，用
       Vue 3 写的，不算太慢。<br />典型现代风格和干净页面，如果您和我一样对 UI
