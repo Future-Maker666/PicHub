@@ -40,7 +40,7 @@ import { ref } from 'vue'
       <div>欢迎给原作者提建议和 Bug，喜欢的话帮他点个star吧！（还有我还有我！）</div>
       <div>目前需要处理的问题：</div>
       <ul>
-          <li>原 CDN （JSDeliver）对国内的支持度大大降低，需要更换其他 CDN 源站。</li>
+          <li>CDN 原站已适配，需更新 Markdown 中的 ?raw=true 。</li>
       </ul>
     </div>
   </div>
