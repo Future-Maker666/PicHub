@@ -6,8 +6,8 @@ import { ref } from 'vue'
   <div class="about-wrapper">
     <div class="title-1">关于</div>
     <div class="content">
-      我是来自新疆的学生<a target="_blank" href="https://ssy.cab/">
-        Future_Maker</a
+      我是来自新疆的学生<a target="_blank" href="https://zemu.im">
+        Zemu</a
       >。本项目是基于<a target="_blank" href="https://github.com/lewkamtao/PicHub">
       Kamtao's PicHub</a
       >进行二次修改的。
